@@ -1,4 +1,4 @@
-### Game Launcher with Audio Switching
+# Game Launcher with Audio Switching
 
 ## For games that don't allow (or respect) using other audio devices besides the default Windows device
 
